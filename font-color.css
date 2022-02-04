@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Quintessential&display=swap');
+
+.title-style {
+    font-family: quintessential;
+    font-size: 300%;
+    color:darkgreen;
+    text-align: center;
+}
